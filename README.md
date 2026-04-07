@@ -47,9 +47,9 @@
 ### 📽 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Project One** | A real-time app with full CRUD. | Next.js, Prisma, PG |
-| **Project Two** | High performance landing page. | React, Tailwind |
-| **Project Three** | API Infrastructure. | Express, MongoDB |
+| **Artisan** | A real-time app to design resumes. | Next.js, Zustand, Framer |
+| **NoteMaker** | High-performance note-taking app. | Next.js, Tailwind |
+| **Crimson Red** | High-performance Story/Blog app. | Next.js, PostgreSQL, Zustand |
 
 ---
 
