@@ -35,8 +35,8 @@
 
 ### 📈 GitHub Showcase
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya-1437&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1437&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya-1437&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1437&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ### 🏆 Contribution Streak
