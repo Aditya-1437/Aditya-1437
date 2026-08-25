@@ -1,7 +1,7 @@
 # 👨‍💻 I'm Aditya | Full Stack Developer 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya-1437&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya_Kuncha&fontSize=90" />
 </p>
 
 ### 🌌 About Me
