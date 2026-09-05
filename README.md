@@ -1,13 +1,14 @@
-# 👨‍💻 I'm Aditya | Full Stack Developer 🚀
+# 👨‍💻 I'm Aditya | Full Stack Developer & Assistant Professor 🎓
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya_Kuncha&fontSize=90" />
 </p>
 
 ### 🌌 About Me
-- 🔭 I’m currently building scalable web applications with **Next.js** and **Node.js**.
-- ⚛️ Passionate about **React** ecosystem and **Tailwind CSS** for sleek UIs.
-- 🗄️ Expert at managing data between **PostgreSQL** and **MongoDB**.
+- 🎓 **Assistant Professor**, teaching computer science and mentoring future developers.
+- 💡 Passionate about bridging real-world industry tech with foundational academic learning.
+- 🔭 Building scalable, production-grade web apps using **Next.js**, **React**, and **Node.js**.
+- 🗄️ Skilled in system design, API development, and data modeling with **PostgreSQL** & **MongoDB**.
 - 🛠️ Currently defying the laws of code with **Antigravity**.
 
 ---
@@ -24,6 +25,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Academic & Instruction**
+![Web Engineering](https://img.shields.io/badge/Full%20Stack%20Curriculum-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Mentorship](https://img.shields.io/badge/Student%20Mentorship-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)
+![DSA](https://img.shields.io/badge/Algorithms%20%26%20DSA-306998?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Deployment**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
